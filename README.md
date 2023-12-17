@@ -1,7 +1,7 @@
 # bench_on_beach_nopixel_inspired
 
 -- jim-g
-
+version: 1.0.5
 🌐 Your Seat, Your Story! 🏙️
 
 Unveiling our exclusive NoPixel 4.0-inspired ymap bench – the perfect addition to elevate your City RP experience! Immerse yourself in the virtual world with a touch of style and comfort.
